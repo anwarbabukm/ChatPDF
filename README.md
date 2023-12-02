@@ -8,5 +8,4 @@ It lets you upload any pdf into the application and extracts the content and sto
 ![RAG Workflow](https://github.com/anwarbabukm/ChatPDF/blob/main/RAG_Workflow.png)
 
 # Application Screenshot
-حشحAA
 ![Screenshot of the Application](https://github.com/anwarbabukm/ChatPDF/blob/main/Screenshot.jpg)
