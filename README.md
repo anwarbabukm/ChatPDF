@@ -5,6 +5,8 @@ LLM - TheBloke/Llama-2-7B-Chat-GGML
 
 Language model Framework - Langchain
 
+VectorDB - ChromaDB
+
 Frontend - Streamlit
 
 The application makes use of the quantized Llama 2 as the backend LLM. Quantization can dramatically reduce the memory and computation required to run the model by decreasing the precision of the model's parameters and activations. As a result, running the model on hardware with constrained resources could be achieved using quantized model.
